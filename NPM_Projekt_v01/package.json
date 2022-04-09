@@ -1,0 +1,21 @@
+{
+  "name": "npm_projekt_v01",
+  "version": "1.0.0",
+  "description": "Erster Projek mit NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hallo Welt! by Ahmad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NPM-Projekt"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ahmad Kabbout",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.4"
+  }
+}
